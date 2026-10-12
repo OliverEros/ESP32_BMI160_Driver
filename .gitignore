@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# Editor / tooling caches
+.cache/
+.clangd
+.vscode/
+
+# Local configuration
+sdkconfig
+sdkconfig.old
+
+# Components downloaded by the IDF component manager
+managed_components/
